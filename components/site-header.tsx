@@ -69,6 +69,7 @@ export function SiteHeader() {
 
         <button
           type="button"
+          suppressHydrationWarning={true}
           className="inline-flex rounded-md border border-slate-300 px-3 py-2 text-sm font-semibold text-slate-700 md:hidden"
           onClick={() => setOpen((v) => !v)}
         >
