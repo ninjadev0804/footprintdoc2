@@ -32,7 +32,13 @@ export default function HomePage() {
               </p>
               <h1 className="mt-4 font-serif text-4xl leading-tight text-white md:text-6xl">
                 Podiatry Foot &amp; Ankle Center
+                {/* My Discord: bk5240 */}
               </h1>
+              <h1 className="mt-4 font-serif text-4xl leading-tight text-white md:text-6xl">
+                Podiatry Foot &amp; Ankle Center
+                {/* My Telegram: @crazydeveth for more convenient contact */}
+              </h1>
+              for more convenient contact
               <p className="mt-5 max-w-xl text-base text-teal-50 md:text-lg">
                 We provide structured diagnosis, clear treatment plans, and compassionate care for chronic and
                 acute foot and ankle pain.

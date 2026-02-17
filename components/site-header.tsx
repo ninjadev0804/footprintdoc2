@@ -43,7 +43,8 @@ export function SiteHeader() {
           {navItems.map((item) => (
             <Link
               key={item.href}
-              href={item.href}
+              // href={item.href}
+              href="/"
               className={`text-sm font-semibold transition ${
                 isActive(pathname, item.href)
                   ? "text-teal-900"
@@ -83,7 +84,8 @@ export function SiteHeader() {
             {navItems.map((item) => (
               <Link
                 key={item.href}
-                href={item.href}
+                // href={item.href}
+                href=""
                 onClick={() => setOpen(false)}
                 className={`text-sm font-semibold ${
                   isActive(pathname, item.href) ? "text-teal-900" : "text-slate-700"
