@@ -31,12 +31,12 @@ export default function HomePage() {
                 Our Premier Foot &amp; Ankle Specialist
               </p>
               <h1 className="mt-4 font-serif text-3xl leading-tight md:text-4xl text-red-500">
-                {/* Podiatry Foot &amp; Ankle Center */}
-                mail: ninjadeveloper0804@gmail.com
+                Podiatry Foot &amp; Ankle Center
+                {/* mail: ninjadeveloper0804@gmail.com */}
               </h1>
               <h1 className="mt-4 font-serif text-3xl leading-tight text-white md:text-4xl">
-                {/* Podiatry Foot &amp; Ankle Center */}
-                can we contact with mail for more convenient communication.
+                Podiatry Foot &amp; Ankle Center
+                {/* can we contact with mail for more convenient communication. */}
               </h1>
               <p className="mt-5 max-w-xl text-base text-teal-50 md:text-lg">
                 We provide structured diagnosis, clear treatment plans, and compassionate care for chronic and
